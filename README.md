@@ -2,9 +2,9 @@
 
 ## Who am I ?
 
-I'm student in the IT engineering school in France: ENSSAT.
-I'm currently working for Orange on 
-I love to code 
+I'm student in the IT engineering school in France: ENSSAT.<br/>
+I'm currently working for Orange Innovation on .<br/>
+I love coding stuff during my free time.
 
 ### Studies
 
@@ -12,3 +12,4 @@ I love to code
 - 
 
 ## My projects
+
