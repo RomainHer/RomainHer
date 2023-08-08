@@ -1,12 +1,12 @@
-# Romain Heriteau's GitHub
+# Romain Heriteau's GitHub :computer:
 
-## Who am I ?
+## Who am I ? :boy: :fr:
 
 I'm student in the IT engineering school in France: ENSSAT.<br/>
 I'm currently working for Orange Innovation on .<br/>
 I love coding stuff during my free time.
 
-### Studies
+### Studies :books:
 
 - **IT Technical Diploma**, *Université Grand Ouest Normandie, Caen, France* (in french : ***DUT Informatique***).
   - September 2019 - June 2021
