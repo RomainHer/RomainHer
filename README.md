@@ -2,7 +2,6 @@
 
 <div align="left" justify-content="center">
   <img src="https://profile-counter.glitch.me/RomainHer/count.svg?"  />
-  Views
 </div>
 
 ## Who am I ? :boy: :fr:
